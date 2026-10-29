@@ -15,11 +15,6 @@ PDF 下载 / PDF Report:
 - ClaudeCode [ai-agent-deep-dive-v2.1.pdf](./ai-agent-deep-dive-v2.1.pdf) 新增第八章：记忆系统
 - ClaudeCode [ai-agent-deep-dive-v2.pdf](./ai-agent-deep-dive-v2.pdf)
 
-## Notes
-
-- 本仓库仅保留面向学习与评论的分析材料，不提供源码目录。
-- 第二版 PDF 已完成。
-
 ## Teaching Agent Code
 
 这个仓库现在还包含一个**教学用的最小 Python Agent 项目**，用于演示一个 AI Agent 的核心结构应该怎么组织。
